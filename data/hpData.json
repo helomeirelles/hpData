@@ -1,0 +1,43 @@
+[
+  {
+   "House": "Grifinória",
+   "Founder": "Godric Gryffindor",
+   "FoundersIdea":"Seu objetivo era ensinar magia para todos aqueles com feitos corajosos em seu nome, independentemente de sua origem.",
+   "Symble":"O símbolo da Grifinória é um leão, animal que representa coragem e honra. Remetendo ao fogo, as cores vermelha e dourada do brasão da casa se referem à juba e aos pelos do mascote.",
+   "MembersQualities":"Coragem, Honra, Ousadia e Determinação",
+   "HouseGhost": "Nick Quase-Sem-Cabeça",
+   "GhostImage": "https://i.pinimg.com/originals/66/e5/a9/66e5a958bca56576bdf0e7b97af91d2b.jpg",
+   "CoatOfArmor": "https://cdn.ome.lt/EFCnnfUKzPbhTfocxkrOH7laQOM=/770x0/smart/uploads/conteudo/fotos/legiao_NkHcwaty4j17.jpg.jpeg"
+  },
+  {
+  "House": "Lufa-Lufa",
+  "Founder": "Helga Hufflepuff",
+   "FoundersIdea": "Aceitava a todos com igualdade e os ensinava tudo de bom que fosse possível. Acreditava que não se devia rotular as pessoas e foi por esse motivo que escolheu ensinar a todos.",
+   "Symble": "O símbolo da Lufa-Lufa é um Texugo, um animal subestimado em relação aos outros, mas igualmente feroz.",
+   "MembersQualities":"Lealdade, Dedicação, Respeito, Despretensão e Generosidade",
+   "HouseGhost": "Frei Gorducho",
+   "GhostImage": "http://1.bp.blogspot.com/-1jRCFpOnw8o/VM2QcAEvRhI/AAAAAAAAfw8/d37PA4LsScU/s1600/FreiGorducho-HP1.png",
+   "CoatOfArmor": "https://cdn.ome.lt/AzD_OL09L31s0Nq5k1146_aZjWI=/770x0/smart/uploads/conteudo/fotos/Best-52-Hufflepuff-Wallpaper-on-HipWallpaper-Hufflepuff-.png"
+  },
+  {
+  "House": "Corvinal",
+  "Founder": "Rowena Ravenclaw",
+   "FoundersIdea": "Rowena valorizava a aprendizagem, então escolheu alunos que demonstrassem esperteza e sabedoria",
+   "Symble": "O símbolo da Corvinal é uma Águia azul e bronze, que representa a sabedoria e a originalidade dos seus membros.",
+   "MembersQualities": "Sabedoria, Esperteza e Sagacidade",
+   "HouseGhost": "Dama Cinzenta",
+   "GhostImage": "https://cloud.estacaonerd.com/wp-content/uploads/2020/11/06204833/A-Dama-Cinzenta.jpg",
+   "CoatOfArmor": "https://cdn.ome.lt/mAPPy6iQepBzj6uD3UxV8_kfDcE=/770x0/smart/uploads/conteudo/fotos/WhatsApp_Image_2022-04-14_at_16.42.36.jpeg"
+  },
+  {
+  "House": "Sonserina",
+  "Founder": "Salazar Slytherin",
+   "FoundersIdea": "Defendia um ensinamento para com somente aqueles que descendessem de famílias puro-sangue, ou seja, não aprovava mestiços e tampouco nascidos trouxas.",
+   "Symble": "O símbolo da Sonserina é uma cobra, e representa a habilidade que seu fundador possuia de falar com esses animais.",
+   "MembersQualities": "Astutos e Ambiciosos",
+   "HouseGhost": "Barão Sangrento",
+   "GhostImage": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/01/photo-2022-01-12-19-26-53.jpg",
+   "CoatOfArmor": "https://cdn.ome.lt/dkQYflqXH6IpUhpNbjRbI7whNYk=/770x0/smart/uploads/conteudo/fotos/slytherin-sonserina-harry-potter-hogwarts-wallpaper-preview.jpg"
+  }
+  
+]
